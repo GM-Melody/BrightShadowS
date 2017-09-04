@@ -26,17 +26,17 @@ Machinist Doublet
 Machinist Trousers
 Machinist Boots
 Snow Cat Hat
-Snow Cat Glove
+Snow Cat Gloves
 Snow Cat Cloth
 Snow Cat Skirt
-Snow Cat Shoe
+Snow Cat Shoes
 Kitten Hat
-Kitten Glove
+Kitten Gloves
 Kitten Cloth
 Kitten Breech Cloth
-Kitten Shoe
+Kitten Shoes
 Wild Cat Hat
-Wild Cat Glove
+Wild Cat Gloves
 Wild Cat Cloth
 Wild Cat Skirt
 Wild Cat Shoes
@@ -170,7 +170,7 @@ Blaze Armlet
 Blaze Cloth
 Blaze Breeches
 Blaze Shoes
-Ortho cowl
+Ortho Cowl
 Ortho Armlet
 Ortho Cloth
 Ortho Breeches
@@ -268,7 +268,7 @@ Erosion Dream Shoes
 Moist Rainbow Hat
 Moist Rainbow Gloves
 Moist Rainbow Cloth
-Moist Rainbow pants
+Moist Rainbow Leggings
 Moist Rainbow Boots
 Ganesha Hat
 Ganesha Gloves
@@ -348,7 +348,7 @@ Alchemy Boots
 Meldy Beret
 Meldy Gloves
 Meldy Doublet
-Meldy Beret
+Meldy Trousers
 Meldy Boots
 Ruby Beret
 Ruby Gloves
@@ -413,11 +413,11 @@ Silver High Cross
 Silver Grail
 Crystal Cross
 Wooden Maria Effigy
-Cross Annulet
+Cross Amulet
 Wooden Maria Effigy
-Silver Maria
-Gold Maria
-Golden Cross Annulet
+Silver Maria Effigy
+Gold Maria Effigy
+Golden Cross Amulet
 Golden Holy Glass
 Yellow Crystal Cross
 Saint Cross Armlet
@@ -443,14 +443,14 @@ Platinum Amulet
 Copper Ba Gua Mirror
 Grand Mother's Amulet
 Iron Ba Gua Mirror
-Water ClarifiCation Jar
+Water Clarification Jar
 Compass
 Copper Water Clarification Jar
 Copper Holy Bell
 Ruby Amulet
 Silver Ba Gua Mirror
 Porcelain Water Clarification
-luzulite Water Purification Jar
+Lazulite Water Purification Jar
 Silver Compass
 Silver Holy Bell
 Small Drum
@@ -482,20 +482,20 @@ New Moon Ring
 Lion Fang Necklace
 Tiger Fang Necklace
 Elephant Necklace
-Water God Mind
+Water God's Mind
 Enchanted Eye
 Dark Moon Ring
-Life and Death Annulet
+Life and Death Amulet
 Pearl Necklace
-Reincarnation Annulet
+Reincarnation Amulet
 Crystal Necklace
-Power Annulet
+Power Amulet
 Onyx Necklace
 White Stone Charm
 Maple Torso Charm
 Cat's Eye Torso Charm
 Earth Mind
-UnscarRed Annulet
+Unscar Red Amulet
 Phoenix Necklace
 Yellow Jewel Pendant
 Blue Jewel Pendant
@@ -511,12 +511,12 @@ Glass
 Holy Candle
 Gold Glass
 Silver Spoon
-Jade Annulet
+Jade Amulet
 Gold Jar
 Deep Blue Jar
 Mysterious Wand
 Mysterious Fire
-Gold Soon
+Gold Spoon
 Cotton Needle
 Cotton List
 Leather Needle
@@ -524,11 +524,11 @@ Leather List
 Silver Needle
 Silver List
 Iron Bracelet
-silver Moon Pin
+Silver Moon Pin
 Silver Bracelet
 Silver Hammer
 Gold Bracelet
-Wondrous Bracelet
+Wonderous Bracelet
 Golden Needle
 Golden Finger Pad
 Golden Hammer
@@ -545,16 +545,16 @@ Horse Mask Scent Bag
 Ward Off Evil Strap
 Vampire Strap
 Jiang Shi Strap
-Mummy strap
-Heart Hair clip
+Mummy Strap
+Heart Hair Clip
 Rose Bouquet
 Ghost Chocolate Stick
 Mysterious Necklace
 Weird Mooncake Strap
 Jack-O-Lantern
 Pumpkin Strap
-Angel Wing
-Devil Wing
+Angel Wings
+Devil Wings
 Butterfly Bag
 Dragonfly Bag
 Jiang Skin Pouch
@@ -571,12 +571,12 @@ Unicorn Bottle
 White Fire Fly Feather
 Silver Box
 Treasure Blood Weapon Box
-MermAida Bag
+Mermaid Bag
 Water Dragon Bag
 Mandragora Bag
 Vampire Plant Bag
 Fallen Angel Bag
-Mysterious Cocoon
+Mysterious Cacoon
 Vast Peace Fan
 Infinite Fan
 Ice Fly Pouch
@@ -586,7 +586,7 @@ God Calabash
 Clean Creek
 Pine Leaf
 Five Bug Urn
-monster box
+Monster Box
 Pentacle Box
 Earth Corners Box
 Salamander Bag
@@ -631,8 +631,8 @@ Miracle Dust Shield
 Head: Doesn't Hurt
 Hand: Doesn't Hurt
 Torso: Doesn't Hurt
-Upper Legs: Not Hurt
-Legs: Not Hurt
+Upper Legs: Doesn't Hurt
+Legs: Doesn't Hurt
 Head Gear: Gear Board
 Hand Gear: Gear Board
 Upper Cloth: Gear Board
@@ -641,11 +641,11 @@ Shoes: Gear Board
 Shield: Gear Board
 Bag: Gear Board
 Accessory: Gear Board
-Kung Fu Hat
-Kung Fu Gloves
-Kung Fu Jacket
-Kung Fu Pants
-Kung Fu Shoes
+Kung-Fu Hat
+Kung-Fu Gloves
+Kung-Fu Jacket
+Kung-Fu Pants
+Kung-Fu Shoes
 Small Rucksack
 Rope Armlet
 Rope Collar
@@ -664,11 +664,11 @@ Jade Chain
 Bamboo Amulet
 Practical Bag
 Willow Shield
-Traveler Gloves
-Traveler Leggings
-Traveler Shoes
-Traveler Hat
-Traveler Cloth
+Traveler's Gloves
+Traveler's Leggings
+Traveler's Shoes
+Traveler's Hat
+Traveler's Cloth
 Battle Helm
 Battle Bracer
 Battle Jerkin
@@ -693,12 +693,12 @@ Wooden Cross
 Bronze Chain
 Wooden Holy Effigy
 Silk Bracelet
-Wooden Annulet
+Wooden Amulet
 Yellow Crystal Sphere
 Wooden Belt
 Bronze Ring
 Leather Rucksack
-Ying Yang Bandana
+Ying-Yang Bandana
 Bamboo Basket
 Tool Rucksack
 Green Shield
@@ -738,7 +738,7 @@ Bronze Cross
 Silver Chain
 Copper Holy Effigy
 Spelled Armlet
-Copper Annulet
+Copper Amulet
 Purple Crystal Amulet
 Bronze Belt
 Silver Ring
@@ -776,7 +776,7 @@ Silver Cross
 Bronze Chain
 Silver Holy Effigy
 Crystal Ring
-Silver Annulet
+Silver Amulet
 Wooden Earring
 Silver Belt
 Silver Anklet
@@ -790,7 +790,7 @@ Gradielle Gauntlet
 Gradielle Leggings
 Gradielle Greaves
 Short Armlet
-Short Breech Leggings
+Short Breeches
 Short Boots
 Empathy Gloves
 Empathy Leggings
@@ -824,7 +824,7 @@ Silver Pierced Earring
 Cotton Ring
 Purple Crystal Ring
 Crystal Ball
-Cloud Annulet Earring
+Cloud Amulet Earring
 Wooden Ring
 Gold Anklet
 Guard Rucksack
@@ -898,11 +898,11 @@ Great Bracer
 Great Jerkin
 Great Trousers
 Great Sabatons
-Five Annulet Cowl
-Five Annulet Armlet
-Five Annulet Cloth
-Five Annulet Breeches
-Five Annulet Shoes
+Five Amulet Cowl
+Five Amulet Armlet
+Five Amulet Cloth
+Five Amulet Breeches
+Five Amulet Shoes
 Clemency Hat
 Clemency Gloves
 Clemency Cloth
@@ -1022,11 +1022,11 @@ Great Bracer
 Great Jerkin
 Great Trousers
 Great Sabatons
-Five Annulet Cowl
-Five Annulet Armlet
-Five Annulet Cloth
-Five Annulet Breeches
-Five Annulet Shoes
+Five Amulet Cowl
+Five Amulet Armlet
+Five Amulet Cloth
+Five Amulet Breeches
+Five Amulet Shoes
 Clemency Hat
 Clemency Gloves
 Clemency Cloth
